@@ -17,9 +17,9 @@ Udacity Workspaces provide remote connection to GPU-enabled instances right from
 
 Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with
 
-1-Zero configuration required\
-2-Free access to GPUs\
-3-Easy sharing
+> - Zero configuration required
+> - Free access to GPUs
+> - Easy sharing
 
 ## Install
 
